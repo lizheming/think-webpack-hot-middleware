@@ -1,6 +1,6 @@
 {
   "name": "think-webpack-hot-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack hot middleware for ThinkJS",
   "main": "index.js",
   "scripts": {
