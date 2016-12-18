@@ -1,0 +1,19 @@
+{
+  "name": "thinkjs-application",
+  "description": "application created by thinkjs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node www/development.js"
+  },
+  "dependencies": {
+    "thinkjs": "2.2.x"
+  },
+  "repository": "",
+  "license": "MIT",
+  "devDependencies": {
+    "think-webpack-dev-middleware": "^1.0.1",
+    "think-webpack-hot-middleware": "^1.0.1",
+    "webpack": "^1.14.0",
+    "webpack-hot-middleware": "^2.13.2"
+  }
+}
