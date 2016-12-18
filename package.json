@@ -1,0 +1,28 @@
+{
+  "name": "think-webpack-hot-middleware",
+  "version": "1.0.0",
+  "description": "webpack hot middleware for ThinkJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizheming/think-webpack-hot-middleware.git"
+  },
+  "keywords": [
+    "thinkjs",
+    "webpack",
+    "middleware"
+  ],
+  "author": "lizheming",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lizheming/think-webpack-hot-middleware/issues"
+  },
+  "homepage": "https://github.com/lizheming/think-webpack-hot-middleware#readme",
+  "dependencies": {
+    "http-connect": "^0.1.4",
+    "webpack-hot-middleware": "^2.13.2"
+  }
+}
