@@ -7,6 +7,15 @@ webpack hot middleware for ThinkJS
 $ npm install think-webpack-hot-middleware --save-dev
 ```
 
+## Exmaple
+
+```
+$ git clone https://github.com/lizheming/think-webpack-hot-middleware
+$ cd think-webpack-hot-middleware/example
+$ npm install
+$ npm start
+```
+
 ## How To Use in ThinkJS 2.x
 
 1. `think-webpack-hot-middleware` should use with `think-webpack-dev-middleware`
