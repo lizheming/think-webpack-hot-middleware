@@ -1,4 +1,6 @@
 # think-webpack-hot-middleware
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/lizheming/think-webpack-hot-middleware.svg)](https://greenkeeper.io/)
 webpack hot middleware for ThinkJS
 
 ## Installation
